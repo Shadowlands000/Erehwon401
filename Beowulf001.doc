@@ -1,0 +1,534 @@
+{\rtf1\ansi\deff0\ansicpg1252{\fonttbl{\f0\froman\fcharset0 Times New Roman;}{\f1\froman\fcharset177 Times New Roman (Hebrew);}{\f2\froman\fcharset178 Times New Roman (Arabic);}{\f3\froman\fcharset161 Times New Roman Greek;
+}{\f4\froman\fcharset162 Times New Roman TUR;}{\f5\froman\fcharset186 Times New Roman Baltic;}{\f6\froman\fcharset238 Times New Roman CE;}{\f7\froman\fcharset204 Times New Roman CYR;}{\f8\froman\fcharset163 Times New Roman (Vietnamese);
+}{\f9\froman\fcharset0 SimSun;}{\f10\froman\fcharset0 Arial;}{\f11\froman\fcharset177 Arial (Hebrew);}{\f12\froman\fcharset178 Arial (Arabic);}{\f13\froman\fcharset161 Arial Greek;}{\f14\froman\fcharset162 Arial TUR;}{\f15\froman
+\fcharset186 Arial Baltic;}{\f16\froman\fcharset238 Arial CE;}{\f17\froman\fcharset204 Arial CYR;}{\f18\froman\fcharset163 Arial (Vietnamese);}{\f19\froman\fcharset0 Tahoma;}{\f20\froman\fcharset177 Tahoma (Hebrew);}{\f21\froman
+\fcharset178 Tahoma (Arabic);}{\f22\froman\fcharset161 Tahoma Greek;}{\f23\froman\fcharset162 Tahoma TUR;}{\f24\froman\fcharset186 Tahoma Baltic;}{\f25\froman\fcharset238 Tahoma CE;}{\f26\froman\fcharset204 Tahoma CYR;}{\f27
+\froman\fcharset222 Tahoma Thai;}{\f28\froman\fcharset163 Tahoma (Vietnamese);}{\f29\froman\fcharset0 Georgia;}{\f30\froman\fcharset161 Georgia Greek;}{\f31\froman\fcharset162 Georgia TUR;}{\f32\froman\fcharset186 Georgia Baltic;
+}{\f33\froman\fcharset238 Georgia CE;}{\f34\froman\fcharset204 Georgia CYR;}{\f35\froman\fcharset0 Times New Roman CE;}{\f36\froman\fcharset177 Times New Roman CE (Hebrew);}{\f37\froman\fcharset178 Times New Roman CE (Arabic);
+}{\f38\froman\fcharset161 Times New Roman CE Greek;}{\f39\froman\fcharset162 Times New Roman CE TUR;}{\f40\froman\fcharset186 Times New Roman CE Baltic;}{\f41\froman\fcharset238 Times New Roman CE CE;}{\f42\froman\fcharset204
+Times New Roman CE CYR;}{\f43\froman\fcharset163 Times New Roman CE (Vietnamese);}{\f44\froman\fcharset0 Times New Roman Cyr;}{\f45\froman\fcharset177 Times New Roman Cyr (Hebrew);}{\f46\froman\fcharset178 Times New Roman Cyr (Arabic);
+}{\f47\froman\fcharset161 Times New Roman Cyr Greek;}{\f48\froman\fcharset162 Times New Roman Cyr TUR;}{\f49\froman\fcharset186 Times New Roman Cyr Baltic;}{\f50\froman\fcharset238 Times New Roman Cyr CE;}{\f51\froman\fcharset204
+Times New Roman Cyr CYR;}{\f52\froman\fcharset163 Times New Roman Cyr (Vietnamese);}{\f53\froman\fcharset0 Times New Roman Greek;}{\f54\froman\fcharset177 Times New Roman Greek (Hebrew);}{\f55\froman\fcharset178 Times New Roman Greek (Arabic);
+}{\f56\froman\fcharset161 Times New Roman Greek Greek;}{\f57\froman\fcharset162 Times New Roman Greek TUR;}{\f58\froman\fcharset186 Times New Roman Greek Baltic;}{\f59\froman\fcharset238 Times New Roman Greek CE;}{\f60\froman
+\fcharset204 Times New Roman Greek CYR;}{\f61\froman\fcharset163 Times New Roman Greek (Vietnamese);}{\f62\froman\fcharset0 Times New Roman Tur;}{\f63\froman\fcharset177 Times New Roman Tur (Hebrew);}{\f64\froman\fcharset178
+Times New Roman Tur (Arabic);}{\f65\froman\fcharset161 Times New Roman Tur Greek;}{\f66\froman\fcharset162 Times New Roman Tur TUR;}{\f67\froman\fcharset186 Times New Roman Tur Baltic;}{\f68\froman\fcharset238 Times New Roman Tur CE;
+}{\f69\froman\fcharset204 Times New Roman Tur CYR;}{\f70\froman\fcharset163 Times New Roman Tur (Vietnamese);}{\f71\froman\fcharset0 Times New Roman Baltic;}{\f72\froman\fcharset177 Times New Roman Baltic (Hebrew);}{\f73\froman
+\fcharset178 Times New Roman Baltic (Arabic);}{\f74\froman\fcharset161 Times New Roman Baltic Greek;}{\f75\froman\fcharset162 Times New Roman Baltic TUR;}{\f76\froman\fcharset186 Times New Roman Baltic Baltic;}{\f77\froman
+\fcharset238 Times New Roman Baltic CE;}{\f78\froman\fcharset204 Times New Roman Baltic CYR;}{\f79\froman\fcharset163 Times New Roman Baltic (Vietnamese);}{\f80\froman\fcharset2 Wingdings;}{\f81\froman\fcharset2 Symbol;}}{\colortbl
+;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue127;
+\red0\green127\blue127;\red0\green127\blue0;\red127\green0\blue127;\red127\green0\blue0;\red127\green127\blue0;\red127\green127\blue127;\red192\green192\blue192;\red230\green230\blue230;\red204\green204\blue204;
+\red179\green179\blue179;\red153\green153\blue153;\red127\green127\blue127;\red102\green102\blue102;\red77\green77\blue77;\red51\green51\blue51;}{\stylesheet {\s1\ltrpar\ql\li0\ri0\fi0\level0\sb0\sa0\sbauto0\saauto0\nowidctlpar
+\sl0\hyphpar1\brsp60\brsp60\brsp60\brsp60\rtlch\af0\afs24\alang2057\ltrch\dbch\af0\afs24\alang2057\hich\af0\afs24\alang2057\loch\f0\fs24\cf1\up0\charscalex100\expndtw0\b0\scaps0\ulnone\i0\kerning0\strike0\v0\caps0\lang2057\highlight0
+\snext1 Normal;}{\s2\ltrpar\ql\li0\ri0\fi0\level1\sb240\sa60\sbauto0\saauto0\nowidctlpar\sl0\keepn\hyphpar1\keep\brsp60\brsp60\brsp60\brsp60\rtlch\af10\afs36\alang2057\ab\ltrch\dbch\af9\afs36\alang2057\ab\hich\af10\afs36\alang2057
+\ab\loch\f10\fs36\cf1\up0\charscalex100\expndtw0\b1\scaps0\ulnone\i0\kerning1\strike0\v0\caps0\lang2057\highlight0\sbasedon1\snext1 Heading 1;}{\s3\ltrpar\ql\li0\ri0\fi0\level2\sb240\sa60\sbauto0\saauto0\nowidctlpar\sl0\keepn
+\hyphpar1\keep\brsp60\brsp60\brsp60\brsp60\rtlch\af10\afs32\alang2057\ab\ltrch\dbch\af9\afs32\alang2057\ab\hich\af10\afs32\alang2057\ab\loch\f10\fs32\cf1\up0\charscalex100\expndtw0\b1\scaps0\ulnone\i0\kerning1\strike0\v0\caps0
+\lang2057\highlight0\sbasedon2\snext1 Heading 2;}{\s4\ltrpar\ql\li0\ri0\fi0\level3\sb240\sa60\sbauto0\saauto0\nowidctlpar\sl0\keepn\hyphpar1\keep\brsp60\brsp60\brsp60\brsp60\rtlch\af10\afs28\alang2057\ab\ltrch\dbch\af9\afs28
+\alang2057\ab\hich\af10\afs28\alang2057\ab\loch\f10\fs28\cf1\up0\charscalex100\expndtw0\b1\scaps0\ulnone\i0\kerning1\strike0\v0\caps0\lang2057\highlight0\sbasedon3\snext1 Heading 3;}{\s5\ltrpar\ql\li0\ri0\fi142\level0\sb0\sa115
+\sbauto0\saauto0\nowidctlpar\sl0\hyphpar1\brsp60\brsp60\brsp60\brsp60\rtlch\af29\afs20\alang2057\ltrch\dbch\af29\afs20\alang2057\hich\af29\afs20\alang2057\loch\f29\fs20\cf1\up0\charscalex100\expndtw0\b0\scaps0\ulnone\i0\kerning0
+\strike0\v0\caps0\lang2057\highlight0\sbasedon1\snext5 Body Text 2;}{\*\cs6\rtlch\af0\afs20\alang2057\ltrch\dbch\af9\afs20\alang2057\hich\af0\afs20\alang2057\loch\f0\fs20\cf1\up0\charscalex100\expndtw0\b0\scaps0\ulnone\i0\kerning1
+\strike0\v0\caps0\lang2057 Normal;}{\*\cs7\rtlch\af0\afs24\alang2057\ltrch\dbch\af0\afs24\alang2057\hich\af0\afs24\alang2057\loch\f0\fs24\cf1\up0\charscalex100\expndtw0\b0\scaps0\ulnone\i0\kerning0\strike0\v0\caps0\lang2057\sbasedon6
+Default Paragraph Font;}}{\*\revtbl {Unknown;}}{\info {\title }{\subject }{\author david noakes}{\keywords }{\doccomm }{\operator david noakes}{\creatim\yr2008\mo10\dy17\hr23\min22\sec36 }{\revtim\yr2014\mo3\dy13\hr22\min17
+\sec43 }}\deflang2057\widowctrl\gutter0\paperw12240\paperh15840\margl1418\margr1418\margt1418\margb1134\sectd\sbkpage\guttersxn0\vertalt\ltrpar\pard\ltrpar\s1\ql\li0\ri0\fi142\level0\sb0\sa115\sbauto0\saauto0\nowidctlpar\sl0
+\hyphpar1\brsp60\brsp60\brsp60\brsp60\rtlch\af29\afs20\alang1033\ab\ltrch\dbch\af29\afs20\alang1033\ab\hich\af29\afs20\alang3081\ab\loch\f29\fs20\cf1\up0\charscalex100\expndtw0\b1\scaps0\ulnone\i0\kerning0\strike0\v0\caps0
+\lang3081\highlight0 The Secret Order of Beowulf - Foundation\rtlch\af29\afs20\alang1033\ltrch\dbch\af29\afs20\alang1033\hich\af29\afs20\alang3081\loch\b0\par
+\pard\ltrpar\pard\ltrpar\s1\ql\li0\ri0\fi142\level0\sb0\sa120\sbauto0\saauto0\sl0\hyphpar1\brsp60\brsp60\brsp60\brsp60\rtlch\af29\afs20\alang1033\ai\ltrch\dbch\af29\afs20\alang1033\ai\hich\af29\afs20\alang3081\ai\loch\f29\fs20
+\cf1\up0\charscalex100\expndtw0\b0\scaps0\ulnone\i1\kerning0\strike0\v0\caps0\lang3081\highlight0 Something vast, ancient and powerful stirred in its dreaming. From one perspective everything was as it should be, everythi
+ng was in harmony. But from a different, more mundane perspective, there was so much to do, and so little time. A train of actions must be started in this place and at this time. It dreamed, and it was so.\par
+\pard\ltrpar\pard\ltrpar\s1\ql\li0\ri0\fi142\level0\sb0\sa115\sbauto0\saauto0\nowidctlpar\sl0\hyphpar1\brsp60\brsp60\brsp60\brsp60\rtlch\af29\afs20\alang1033\ltrch\dbch\af29\afs20\alang1033\hich\af29\afs20\alang3081\loch\f29
+\fs20\cf1\up0\charscalex100\expndtw0\b0\scaps0\ulnone\i0\kerning0\strike0\v0\caps0\lang3081\highlight0 ***\par
+The wooden ship caused consternation as it sailed up the Themes to dock at London docks. The wooden ship was two masted, schooner rigged instead of square rigged, its mainsails set on alternate sides of the ship like wing
+s. The hoi polloi on the banks were agog at the eyes painted on the prow, eyes that seemed to stare directly at them as it sailed serenely up the river.\par
+The Royal Navy was concerned that they had been unable to intercept it when they had the chance. It was faster and more manoeuvrable than their barques and cutters, slipping deftly between them and into the Themes proper.
+ Now they watched in horrified fascination as the ship sailed up river against current, tide and wind, yet its sails billowed as if the wind was behind them. They sent horsemen to alert the Palace, but the boat outstrippe
+d the horsemen. Such a thing could not be!\par
+The ship drew near Tower Bridge, which on the north bank was flanked by the Tower of London and the great St Katherine's docks. Rather than enter the docks complex, busy with commercial shipping, it drew up at the nearby 
+wharf. Five crewmen appeared on deck, swarthy bearded men resplendent in spotless white uniforms and matching turbans. They threw mooring ropes to those on the wharf, who secured them to bollards.\par
+The captain appeared at the gangway, a tall, swarthy, bearded man dressed similarly to the crew, except he wore polished leather boots, a blue jacket, a jewelled clasp for his turban, heavy gold chain about his neck, and 
+a large scimitar with jewelled hilt at his waist. He refused to let down the gang plank, but to mollify the navvies hoping to unload the ship he tossed each a silver coin.\par
+The officials arrived soon after, but the captain refused them entry, saying "We are on a diplomatic mission. My master is Prince Lukeios of Stygia." He pronounced it with a hard 'G'. "He wishes to present his credentials
+ to your Queen. Please arrange for the appropriate people to meet us."\par
+The officials agreed and departed, but not before organising guards to cordon off the area of the wharf adjacent to the ship. A small crowd gathered to watch. Several rooks landed on the railings of the ship, near an open
+ window of one of the staterooms. They stayed for a while, cawing to each other, then left abruptly.\par
+Eventually a diplomatic detachment arrived including five gentlemen, all fashionably dressed in Elizabethan style. Two were in their thirties, one in his forties, two in their late fifties.\par
+The gang plank was lowered and the captain ushered the group aboard. "My master is in the main cabin. Please allow me to conduct you there." The captain was polite but firm, his manner showing he was accustomed to giving 
+orders. He gave all men a hard look, lingering on one of the younger ones\par
+One of the older men spoke. "I am \rtlch\af29\afs22\alang1025\ltrch\dbch\af29\afs22\alang2052\hich\af29\afs22\alang3081\loch\fs22\kerning1 I am Sir Thomas Radclyffe, 3rd Earl of Sussex\rtlch\af29\afs20\alang1033\ltrch\dbch
+\af29\afs20\alang1033\hich\af29\afs20\alang3081\loch\fs20\kerning0 , the Lord Chamberlain, I arrange audiences with her majesty. This is Lord Carey - the baron Hunsdon, Sir Francis Drake, Sir Matthias Loxton and Sir Walte
+r Raleigh."\par
+Drake was in his early forties, Raleigh and Loxton in their early thirties, but all three were dressed similarly in brocade doublets, frilled Elizabethan collars, bulbous pantaloons with slashing that revealed different c
+olored lining, heavy silk stockings and knee high boots. All three men wore short red cloaks and groomed beards that came to a point below their chins. Drake's red hair came over his ears, Raleigh's and Loxton's hair was 
+fashionably shoulder length. The three men wore swords.\par
+Their two companions were in their fifties and more soberly dressed. Their collars were less ornate, their pantaloons less blousy, more suited for walking around draughty castles, their cloaks longer.\par
+Drake added "I am Sir Francis Drake. Perhaps you have heard of me? This  ship and its crew have much about them that suggests Araby, but I think you are from further afield?"\par
+"Ah yes, you circumnavigated the globe two years ago. We are from a land south and east of Persia, you may not have it on your maps yet. I am Captain Nemo, this ship is the Nautilus, the seventeenth to bear that name. If 
+your companions can spare you I will show you about her."\par
+Sir Walter and Sir Francis exchanged a smile - this was exactly what they wanted. "Sir Francis and I are naval men, we would be happy to tour this vessel. My lords, if you can spare the two of us?"\par
+"I believe we can dispense with you company." the Lord Chamberlain replied.\par
+"May not be room for everyone." the baron added, ever the gruff old soldier.\par
+Captain Nemo showed the three into a stateroom, announcing all three, and then closed the door behind them. He turned to sir Francis and sir Walter. "You may find this ship somewhat different from the square riggers you g
+entlemen are used to."\par
+The Nautilus was about two thirds the size of sir Francis' ship the Golden Hind. His ship carried a crew of one hundred and seventy, with several cramped cabins for the officers, his small stateroom, a mess area for the o
+fficers to eat or hold meetings. The rest of the crew slept in hammocks in a cramped area below decks. There was little room, and scant privacy.\par
+With the Nautilus a large area of the upper deck was given over to staterooms for the Prince and his staff, the Captain and two officers, a library and a banquet hall. Below decks were private cabins for all the crew and 
+servants. There was a large galley where food was being prepared, and a dining room for the crew and servants. There didn't appear to be any weapons such as cannon. All this caused the two navy men to shake their heads in
+ wonder.\par
+What surprised them was the smallness of the crew - scarcely thirty in all. Captain Nemo showed them the windlasses and pulleys that worked the sails. "Five men can raise and lower all the sails, and in an emergency just 
+one could do so." the Captain remarked. "The sails can change angle swiftly, and their shape allows us to sail almost into the wind."\par
+Seeing their disbelieving looks, Captain Nemo smiled. "You know the albatross circles and soars for hours yet it rarely flaps its wings. How does it fly? It angles its wings to the wind and is drawn up and forward."\par
+Drake nodded. "Now that you mention it I have often seen them turn into the wind, as our ships cannot, and fly."\par
+Nemo laughed. "Can I explain how the albatross flies? No, but I have observed that it does. Can I explain how this ship sails into the wind? No, but we learned from the albatross, copied what it does, and the Nautilus sai
+ls into the wind fastest than your ships can sail with it."\par
+"With no heavy weapons and so few crew, what would you do if pirates attacked you?"\par
+"We sail into the wind and none can catch us."\par
+"But what if they surround you?"\par
+Nemo laughed "Some have tried. None succeeded." Then he turned serious. "No one boards the Nautilus without my permission. No one. Now I expect you gentlemen would like to see the bridge?"\par
+On the Golden Hind the bridge was an open platform at the back of the ship with the ship's wheel. It was open to the elements, and from here the captain or the navigator could make observations. Charts were either in the 
+captain's cabin or the common room where the officers ate.\par
+On the Nautilus the bridge was towards the back, but was roofed over, protected from the elements with timber and glass, with charts and navigation equipment strewn around. Two men dressed in white with white turbans and 
+blue jackets stood near the front of the room. They nodded to the captain, then returned to watching through the windows, both dockside and river side.\par
+"Now this is obviously a luxury ship." Drake remarked. "Is that a clock? And what's that globe?"\par
+Nemo gave the two men a knowing look. "This is an astrolabe." He indicated a sphere covered in stars and set on several axes. "You are familiar with the use of the sextant to determine longitude, but you use an almanac of
+ star positions. This device displays the star positions for any given date and time, just rotate the sphere on these axes, and we use like your almanac. And this is a clock, an accurate clock. It tells the time on a twen
+ty four hour basis, sunrise and sunset, moonrise and moonset, the date and phase of the moon, and this outer band shows the sun's yearly precession through the constellations. All is relative to the great Observatory on S
+tygia. With these two devices we can calculate our latitude and longitude."\par
+"Very interesting." Drake smiled.\par
+"Longitude? How?" Raleigh questioned.\par
+"Ah, I know that." Drake offered. "May I?" to Captain Nemo.\par
+"Go ahead sir."\par
+"I had a long talk with dr. Dee. He is not only the Queen's physician and Royal Astrologer, he is also a mathematician and cartographer. He worked with Mercator developing Mercator's charts. He told me that if you know th
+e time of sunrise anywhere in the world, and have an accurate clock that tells the time for the same place it is simple. Look, suppose you know that today the sun will rise at precisely six in the morning in London. You a
+re in the Atlantic and you have a clock that tells the time in London. You observe that the sun rises at nine in the morning by the clock. Thus you may deduce you are three hours west of London, one eighth of three hundre
+d and sixty degrees ..."\par
+"Which would be forty five degrees." the younger man supplied.\par
+"Yes, you can calculate that you are forty five degrees west of London. It is easy, but you need an accurate clock." He turned to Captain Nemo. "Can you tell us how the clock is made?"\par
+Nemo laughed and shook his head. "I am a sailor, not a clock maker. I can tell you there are lots of gears in there, but I will not take it apart. I am sure your clock makers could build one if they know it can be done."\par
+
+"We can build clocks, but nothing that will be accurate on a ship. These are your charts?" He moved to look at them. All were written in writing he could not read, but the top one seemed to be an accurate representation o
+f the Themes, the one beneath a chart of the coast by the mouth of the Themes. \par
+"These seem to be remarkably accurate and up to date. I imagine England's enemies would pay well for charts such as these."\par
+"I would presume they already have them, and sell them to other nations. I believe the originals may have been purchased from the Persians, or perhaps the Greeks."\par
+He picked another chart off the table. Both men recognised it as a map of the would, the globe cut into segments like orange skin and then laid flat. "You wanted to know where Stygia is. See here."\par
+He indicated a land mass south and west of India. Drake exclaimed "I heard rumours of land in that area on my voyage, though we encountered none. There was an old Persian map I saw once that had something marked in that a
+rea. And there is land around the south pole too, that was on the old map too."\par
+Raleigh leaned over the map. "I never knew. How did the Persians know?"\par
+"Well, they told me they copied from an ancient Egyptian map. Mayhap the Egyptians copied theirs from the Stygians?" Drake replied.\par
+Captain Nemo replied "We know the region around Stygia, but we rely on others for maps and charts of the rest of the world. I can tell you that the great southern land is surrounded by ice, we've never ventured onto its l
+and."\par
+The door opened and a sailor walked in carrying a tray bearing a fresh pot of coffee, eggshell size cups, a plate of small pastries, small glasses and a decanter of sherry. "May I offer you gentlemen refreshments?"\par
+Meanwhile, the other three were ushered into a comfortable stateroom. There was a wooden desk and leather and wooden chairs, a bookcase with glass fronted doors, its shelves crammed with leather bound volumes, several cup
+boards with doors fast shut. In one corner was an iron stove, bolted to the floor with a brass flue going through the roof. A man clothed similarly to the sailors in white but for a yellow turban was cooking something on 
+the stove.\par
+Another man was in the process of walking around the desk to greet the newcomers. He wore loose yellow pantaloons that came to mid calf, leather sandals with gold buckles, a lavender jerkin, a leather belt with a large go
+lden buckle, a yellow military style jacket with purple swatches, gold braid, gold buttons set with amethysts. Around his neck was a heavy golden torc. His face was clean shaven, his black hair short and curly. His nose w
+as sharp and curved, his eyes a brilliant yellow.\par
+"Greetings gentleman, I bid you welcome." His voice was mellifluous, warm and deep. "I am Prince Lukeios of Stygia, my titles include 'The hawk that soars at dawn' and 'The Herald of the Sun'. Please be seated. Would you 
+like a drink? I can offer fresh green tea, Persian style coffee which my assistant is making, wine, porter or something you English call sherry."\par
+He carried with him an aura of power that made the two elder statesmen want to cringe in fear. Both had trouble finding their voices. Loxton answered for them. "Coffee is a prized drink. I think we should all have coffee.
+  And perhaps some sherry to follow?"\par
+Prince Lukeios smiled at Loxton. "A good choice." He walked to a cabinet near the stove and proceeded to pour drinks for everyone. His assistant had spooned ground sugar into a pot of water and was now stirring it as it c
+ame to the boil.\par
+The prince handed out drinks and made small talk while his assistant worked. The pot came to the boil and the assistant removed it from the heat and carefully spooned finely ground coffee into the steaming water. He place
+d it back on the heat where it swiftly came to the boil, generating a brown froth, despite four pairs of eyes watching the pot. He removed it from the heat, stirred and allowed the froth to subside, then placed it back on
+ the heat. He allowed it to boil three times before he removed it and began pouring coffee.\par
+"Making good coffee is an art." the prince commented. "The heat must be high, but not too high, the foam must be creamy with fine bubbles. My assistant is very good at this."\par
+The assistant spooned creamy foam into each eggshell sized cup before pouring in the liquid, giving an espresso style shot of coffee with a layer of crema on top, strong and sweet. Coffee served, he produced a plate of sm
+all cakes, made of nuts and dates and pastry.\par
+"Our chef is very skilled. I hope these are to your liking. They are a traditional accompaniment to coffee."\par
+"They are exceptionally good, you Excellency." commented the Lord Chamberlain. "My compliments to your chef."\par
+They quickly agreed a date and time for the prince to meet with the queen and then continued their conversation over coffee and sherry. Loxton asked a question about how the ship could sail so swiftly.\par
+The prince declared "I sail on ships, but I do not sail them. You must ask Captain Nemo any such questions. I dare say your two navel men are doing that right now."\par
+During their talk, the prince talked about his country. "The river Styx issues from a cave in the central mountain - the ancient Greeks thought it led to the underworld. The only way across the river is by boat - the rive
+r is two swift and deep and broad for bridging. There are two pillars, one on either side of the river where it issues - the white pillar of order and the black pillar of chaos. In ancient times we had two kings, one for 
+each side of the river - the crystal king on the side of the white pillar and the chameleon king on the other side. Now we have one king who wears the double crown of the two kingdoms. Perhaps you would like to visit some
+ time?" He was staring at Loxton as he spoke.\par
+The lord Chamberlain and the baron Hunsdon both declined "We are getting too old for such a long journey and our duties are pressing."\par
+"What about you sir Matthias? I could arrange for you to return with me if you wish, and send you home later."\par
+"Now might not be the most opportune time, your Excellency, but I thank you for your invitation and I assure you I should enjoy visiting at a suitable time."\par
+The baron laughed "Hah, the queen might appoint you ambassador and then you'd have to go!"\par
+"It is no matter" the prince replied. "I hope to be here for several weeks."\par
+"Where will you be lodging?" the lord Chamberlain asked.\par
+"Oh, I intend to stay aboard my ship, it is comfortable for my needs."\par
+When they finished their refreshments the lord Chamberlain decided they should leave. The prince rang a bell, and when the servant arrived they escorted the three men back on deck. The captain and his visitors descended t
+he stairs from the bridge to join them.\par
+\par
+Once the five nobles were safely back on the wharf with their escort, baron Hunsdon asked "What is everyone's impressions of our visitors?"\par
+The Lord Chamberlain and baron Hunsdon were fulsome in their praise of the prince. He was noble, charming, educated, intelligent, honourable and well intentioned. Loxton looked at them but said nothing. Drake and Raleigh 
+praised Nemo and his ship, pointing out innovations that could be applied to the British navy, and talking about his sails and accurate clock and charts.\par
+"Interesting." Said Loxton after the others were running out of words. "I found both of them to be strange. Nemo is really odd, I don't think he's quite what he seems. I feel he's like a wolf dressed as a sheep, and we ar
+e the sheep. And the prince, he was manipulating you some how, making you all think him above reproach. He controls Nemo as well. I think he is dangerous. They had charts of our coast, but nothing of their land. The world
+ map is rather vague; it's not a chart. I wish I'd seen it for myself."\par
+"Interesting." The lord chamberlain replied. "We four concur that they are good men, you disagree. I think perhaps that you are the odd one, Sir Matthias. However, the prince seems to like you, why not make his acquaintan
+ce, see what you can find out about him and Nemo and their ship." Loxton pursed his lips in thought, then nodded his agreement.\par
+\par
+"What are your impressions of our visitors?" the prince asked Nemo as they stood on the deck, watching their visitors depart.\par
+Nemo pulled a curved pipe and tobacco from a pocket, started packing the pipe. "We seem to have impressed the humans. My two are pirates, both would attempt to loot us if they encountered us on the seas."\par
+The prince chuckled. "Stealing for one's country and personal profit is regarded as normal in many shadows. They wouldn't have a chance though."\par
+"Yes, but that doesn't mean I condone it." Nemo put the pipe to his mouth, lit it with a click of his fingers. He blew a cloud of smoke. "Your two have very bad health, I wouldn't give either of them more than two years t
+o live."\par
+"What about Loxton then?"\par
+"He's an immortal. Do you think he's the one we seek?"\par
+"Hard to say. I tested him but there was no reaction. It's as if he isn't aware of his nature. But that doesn't make him any less dangerous."\par
+"We've seen a few with an immortal father and human mother. Could that be the case with him?"\par
+"Anything is possible, but I believe he is full blood. I want to keep an eye on him, I will try to strike up a friendship with him."\par
+"What about the relic? I can't sense anything myself."\par
+"It's here in London, of that I am sure. I can feel it, but not strongly enough to walk to it. I hope it will make its presence known before causing too much trouble."\par
+"But surely that would mean that someone is using it?"\par
+"It has to attract someone suitable to wield it first. I hope to discover it then, before it is used." The prince sighed, turning to look Nemo in the eye. "You or I or Loxton must be considered suitable candidates, and Lo
+xton may already possess it."\par
+Nemo puffed thoughtfully, the prince waited impassively. Finally Nemo spoke again. "What are your plans then? I must confess I am not sure how to locate this relic. Would I recognise it if I saw it? Would you?"\par
+The prince steepled his fingers as if in prayer, then pressed his lips to the tips of his fingers. He rubbed his hands together. "It is a small gold box, an ossuary, lined with red velvet, and containing one finger bone n
+o longer than an inch. I am not sure what carvings or inscriptions decorate the box, but you will sense the power imbued in the bone. I think our first step should be to walk about London, in disguise. If nothing eventuat
+es, then we will visit Loxton, and try to become friends."\par
+"No time like the present then." Nemo knocked the contents of his pipe into the water, then placed it in his pocket. The two of them walked into the stateroom. A moment later two gentlemen with superficial resemblance to 
+Drake and Raleigh walked out of the stateroom, down the gangway, across the wharf and into London.\par
+\par
+Dr. John Dee sat in his study reviewing his notes. He was a man in his late fifties, dressed in black academic robes with a close black cap to keep his bald head warm, and a fashionable Elizabethan collar that rose around
+ his ears. His grey beard was fashionably pointed. He was possessed of a high forehead, long nose and intelligent eyes. His rooms were a suite of the London house of his patron the Duke of Northumberland, since he was in 
+London to confer with the Queen and Sir Francis Drake.\par
+Dr. Dee was a learned man - he studied Greek, Latin, philosophy, geometry, arithmetic and astronomy at Cambridge University, graduating with a B.A. in 1546. After that he traveled and studied in Europe, gaining his Ph.D. 
+He worked with Gerhardus Mercator, the famous cartographer, developing the Mercator projection for maps and charts. Dee was a leading philosopher, mathematician, advisor to the Royal Navy on charts and navigation, and the
+ Royal Astrologer. He chose the date for the coronation of Queen Elizabeth I according to her horoscope.\par
+His notes had been dictated in the angelic language by assorted angels to his scryer Edward Kelley, who patiently tapped out the letters on a large annotated board \u8211\'96 constructed by the pair after Kelley was shown
+ the board in his scrying crystal. Dee was still trying to translate all the passages into English. It was disappointing that the angels did not appear to him in the shewstone, and instead he must work through an intermed
+iary. He wasn't entirely convinced that Kelley always had the translations correct. According to him, once an angel spelled out a passage, the English equivalent appeared as if written on paper in the crystal. Sometimes t
+he purported translations were much shorter than the original in the angelic language.\par
+The texts were many and varied. One angel Uriel had prophesied that Mary Queen of Scots would be beheaded in three years time, and that the Spanish would attempt to invade England in four years time. Another one had order
+er Kelley to marry a particular girl. Others had described the structures and natures of the heavenly realm - four watchtowers, each with twelve gates, giving access to forty eight aethyrs, each with its angelic ruler and
+ supporting bureaucracy. Recently the angels had dictated forty nine opening calls, forty eight to open the gate to each aethyr, and one never to be used.\par
+Some of the translations bothered him - they were shocking to his sensibilities and hard to reconcile with his Christian world view. One passage read "no prayer should be made to Christ, there is no sin, and Christ had ro
+bbed God of his honour." Such writings troubled him enough that he would not publish them, but keep them only in his hand written notes.\par
+Now at Kelley's urging they had begun experimenting with the opening calls to the aethyrs to see what they could learn. Dee saw his role as explorer and mapmaker - not all the territories they discovered might be good, bu
+t they at least should chart them and mark out dangerous ones to be avoided and the good ones to be explored further. Kelley hoped to make money, and now the man was sometimes scrying without Dee's supervision, and who kn
+ew what he'd been told in those sessions. Right now the man was out searching for some object he'd been told to find by the angels.\par
+\par
+The prince and Nemo walked the streets of London. While their walk may have seemed random, they covered the four main axes and the center. Nemo could sense nothing of the relic, the Prince was adamant it was somewhere nea
+r the palaces of the queen and nobles. "There are forces at work hiding it from my senses, deliberately so."\par
+"Then we should search for the people who would use it."\par
+"We will, old friend, but I fear it may be more difficult than you think. But if you are looking for trouble, there is some just around this corner." They were in a seedy part of town, with dingy winding narrow streets an
+d run down houses. Around the corner was a broader way that led past a disused warehouse, its doors smashed and windows broken. Ruffians appeared from both ends of the street, and more issued from the disused warehouse.\par
+
+"Bring it on!" Nemo exclaimed.\par
+"Well, well, what 'ave we 'ere?" exclaimed one of the knaves, dropping his H's and his L's. "A couple of nancy boys by the look of it. What's it going to be gentlemen, your purses and jewellery or your lives?" Most had sw
+ords, the rest were brandishing cudgels or daggers.\par
+"Is that all of you?" Nemo asked. There were about twenty of them, moving to surround the two men. "There's hardly enough to go around."\par
+The prince smiled. "Don't kill anyone. I'm sure one or two will slip past you, I'll deal with them."\par
+"Trying to be funny?" the leader brandished his sword in Nemo's face. Nemo grasped the man's wrist, immobilising it, and began to squeeze. The villain punched Nemo and then shook his hand in pain. He tried a kick with sim
+ilar results and then stabbed at Nemo. The dagger struck something solid and stopped. "Get 'im!" He managed before he gasped in pain as his wrist snapped and the sword dropped to the ground.\par
+Several attackers struck Nemo with swords and cudgels, but they might be striking a brick wall for all the effect it had. The prince raised a finger, and those near him found their swords or cudgels had become poisonous s
+nakes. They screamed and dropped them, darting back in superstitious terror. Others at the back pushed forward to attack the two men, but with similar results. Most of them fled out of reach.\par
+Nemo was still holding the leader's broken wrist, having forced the man to his knees. He was almost sobbing in pain and terror. "Perhaps you are ready to listen to me?" Nemo asked him.\par
+"Don't kill me! Please, don't kill me!"\par
+"Well, if you behave yourself and do exactly what I ask you, I'll let you live. Is that clear?"\par
+The man nodded. Nemo continued. "There is a small box containing a finger bone. It has arrived recently in town, and people are searching for it. We want it. Deliver it to the ship with eyes that docked today at St Kather
+ine's docks and you will be rewarded. Deliver it to anyone else and you will die painfully, eaten alive by worms. Do not fail. Do I make myself clear?"\par
+Again the man nodded. The prince tapped him on the forehead. "Your wrist is healed, but there is a worm sitting in your brain. In three days it will start to eat your brain, you will recognise it by the headaches it cause
+s. Deliver the box with the bone, and I will remove the worm. Deliver the wrong box, or fail to deliver the box, and you will slowly be eaten alive. The same will happen to your friends. Make sure you tell them."\par
+The man began shivering with terror, his eyes wide open, his mouth working. The prince looked at him for a moment, then ordered "Now pick up your sword and start searching for the box with the bone. Off you go."\par
+The man grasped his sword and ran to his compatriots, where they began conferring. The Prince and Nemo walked on.\par
+"Neat trick that." Said Nemo. "They all believed you."\par
+The prince chuckled. "They will scurry around for a few days before they find out it is a trick. In the meantime they might actually find the relic. If they do we can pay them some gold. If not, then my sister's ravens ar
+e searching and may find it."\par
+"They will probably fight each other over any gold." Nemo observed.\par
+"Well, they are footpads, that is what they do. It would serve them right."\par
+\par
+"Faugh! Fresh air at last!" Captain Nemo exclaimed as they arrived back on the deck of the Nautilus. "London stinks!"\par
+"Most cities smell bad. Humans never seem to be very clean. Stay here if you prefer, I will go alone to talk with Loxton."\par
+"Hmm, I think I should talk with him. After that I might stay on the Nautilus unless you need me."\par
+"Freshen up, we'll visit him soon."\par
+"Do you know where he is staying? I mean, we should knock on his door rather than appear in front of him."\par
+Prince Lukeios gave him an amused, slightly puzzled look. "He is walking in a garden with Drake and someone I believe to be the queen, so right now may not be opportune, but I world choose a distant part of the garden to 
+arrive in and then walk to him. Is that not easy for you?"\par
+"Hmmph, I've not heard of anyone else who can do that. I can find him no problem, I can see he's with Drake and a woman in a garden, but I would arrive within about three meters of where he is."\par
+"Oh, er, I look around the scene, find somewhere secluded, focus on that spot and then walk through shadow to there. Try it."\par
+The other was silent for several minutes. Finally he spoke "I can see the surroundings but I cannot focus on anything, at least not to the point of walking through shadow to it."\par
+"Hmm, you probably need practice."\par
+"Maybe that's all." Nemo replied. "But do you know of anyone else who can do this?"\par
+"My sister." The prince laughed. "Maybe others who can do not admit to it. You know how we like to hide abilities we think others do not possess."\par
+"Hmmph, too many of us play games and try to manipulate everyone around us. That's why I prefer my ship, I don't have to play games."\par
+"That's why I live among humans, and my sister chooses to live amongst the elves. They cannot manipulate us."\par
+They freshened up in their cabins, then returned to the dining hall where they ate a light meal and planned their encounter with Loxton.\par
+The prince drank the last of his wine and announced "Loxton is leaving the garden, now might be a good time to meet with him. I'll bring us out ahead of him, you talk, I will observe his reactions."\par
+The two men stood side by side in the dining room. The prince stood quietly for several minutes before announcing, "He's turned a corner into a smaller street, and there is a suitable laneway ahead of him. Two steps."\par
+
+They walked forward, their outlines smearing into rainbow light that faded out. On the second step they were in a dingy laneway. They walked to the corner where they almost collided with Loxton.\par
+"I'm terribly sorry." Loxton apologised as he recognized Nemo and the Prince.\par
+"No need." the prince countered. "We should have looked before we stepped out. I fear we were becoming lost in London's maze of streets. How are you Loxton? It is good to see you."\par
+"Maybe you can tell us where we are in relation to the docks." Captain Nemo added.\par
+Loxton nodded, smiling. "You've walked a goodly way. I think it will be easiest to walk with you to the docks."\par
+"Oh, we couldn't impose on you like that." the prince protested.\par
+"Oh, it is no impost. I was hoping for an excuse to talk with you, and here you are." Loxton smiled. "I should be very happy to walk and talk with you. It matters not where you are going."\par
+"And so will we." The prince acquiesced. "Very well, lead on. We have no need to return to the ship, we were merely sight seeing. But you are welcome to have a drink with us, or a meal. Food is being prepared for our retu
+rn."\par
+Loxton and Captain Nemo walked together, talking, while the Prince walked a pace behind. The Captain questioned Loxton about his family, upbringing, education and career. Loxton claimed to be from an old family that were 
+installed in the seat of Wessex by William the Conqueror. He was the only child of an only child, his father had died in early middle age, as had his grandfather.\par
+"That is very interesting." The prince inserted. "Your mother was an only child who died in childbirth, your father died in service of the Queen. You have no close relatives on either side."\par
+"True. My grandfather died in service of King Henry. I must find a wife and start a family soon, lest the same unfortunate fate overtake me."\par
+"May God forbid." The prince countered. They turned a corner and walked past some children playing in the street. Up ahead there was a cry, and they spied a heavily laden cart rolling towards them. Nemo flattened himself 
+against one side of the street, the prince against the other. Loxton was about to do the same when the prince cried "The Children! They will be crushed!"\par
+Loxton leaped into the path of the cart, placing his hands against the back and scrabbling with his feet for purchase on the slippery, uneven cobbles. He succeeded in slowing its progress, but it continued to push him bac
+kwards. The prince shepherded the children out of its path, but a moment later the cart slammed into the stone wall of a building. Miraculously the load of barrels stayed in place. Loxton gave an explosive grunt of pain.\par
+
+"Quickly Nemo, help me get the cart off him!" The prince placed his back against the wall and his hands against the cart, while Nemo grasped the shaft, and together the pushed the cart back, freeing Loxton, who sagged to 
+the ground. Nemo changed his grip on the shaft and began slowly towing the cart back up the hill.\par
+"I have it, but get him out of the way lest I slip."\par
+Loxton did not look well. His chest was caved in, his left arm was at an angle suggesting it was broken and blood was trickling from the corner of his mouth. "You're injured. Let me get you out of there." The prince scoop
+ed Loxton into his arms like a child and proceeded to carry him up the hill after Nemo.\par
+"I'm all right. Winded. Let me get my breath back." Loxton spoke in short gasps.\par
+"It's worse than that, let's see how are when you get to our ship. We have a physician." the prince countered.\par
+They waited while Nemo held the cart for the men to chock securely. "You're lucky his lordship is not injured or there would be hell to pay." Nemo chastised.\par
+"He's just winded." the prince added. Loxton nodded agreement.\par
+As they walked on, Nemo asked "How is he?"\par
+"Healing. There's broken bones and internal damage, but you know how it works. I aligned his arm and straightened his back. He might be able to walk before we reach the ship." He walked swiftly, the crowds parting before 
+him, Nemo following in his wake.\par
+"You should put me down." Loxton wheezed. "I'll be all right in a few minutes."\par
+"I know, but not yet." the prince answered curtly. "I know a lot about healing, and you need another minute or so for your organs to finish healing. Your heart and lungs were ruptured, we couldn't leave you where you were
+."\par
+Loxton gave him a look of surprise. "No, that would be fatal!"\par
+"Not for you, nor others like you. Patience, I will explain soon."\par
+They continued in silence, punctuated by their rapid footsteps. Abruptly the prince announced "Time for you to stand." He set Loxton gently on the pavement, steadying him. "Now, inflate your lungs and stand straight. Hold
+ your breath for thirty seconds. It will hurt, but you want your ribs to set properly."\par
+Loxton did as he was bid, grimacing in pain. The prince added "You should feel your bones knitting. Something to keep in mind when you next break a bone - if you align them properly they will knit and heal within a minute
+, otherwise they will take their time, and if you don't align them they will eventually heal crookedly."\par
+The prince seemed to be studying Loxton closely and eventually said "Your bones are healed. You may have some residual soreness."\par
+Loxton breathed out, that turned into a wet cough and he spat blood. "You seem to know things about me that I don't. Are we near the docks? We must have covered three miles!"\par
+"Perhaps we took a short cut? Let's get you to our ship, we can talk freely there."\par
+\par
+A man glanced furtively around to check that no one was watching him. He was of average height, wearing the clothes of a common labourer, and a cloth cap that covered his hair and ears. Before him was a marble and wood do
+or that gave access into a crypt used by a noble family. He didn't care who they were, but he had been told to come here at this time, enter and search. The door was held shut by a simple metal latch, which gave easily to
+ a slim blade inserted into the lock. The door swung open, and he made his way into the crypt.\par
+It was gloomy in here, but enough light entered through the doorway. There were marble shelves arranged on three sides, many containing marble coffins. The dead bodies did not bother him, and he knew they had no need for 
+what he had come to find. Carefully he counted shelves from the door going clock wise, and there was the coffin as described.\par
+He carried an iron pry bar, but he should be careful not to damage the coffin or leave obvious marks. There was a convenient gap at the foot and he inserted the pry bar, using it to lift the lid enough to slide it sideway
+s. He peered inside. There at the foot of the smaller wooden casket, rotting now, was a small wooden box. He took it out, wiped it on his overalls, then replaced the coffin lid.\par
+The latch was harder to lock than it had been to unlock, and he sweated over it for several long minutes. By the time he finished he had the uncomfortable feeling of being watched. He looked around slowly and carefully, b
+ut all he could see were two ravens perched in a tree, staring at him. Creatures of death and battle. He shivered momentarily, then went on his way.\par
+\par
+Loxton was on his second plate of food, eating hungrily. Nemo was finishing his plate, while the prince, who had been doing most of the talking, was less than halfway through his plate. He sighed. "Well Loxton, either you
+ are playing some deep game, or you genuinely don't know what I'm talking about."\par
+"I assure you sir, I do not know what you are talking about." Loxton spoke with a mouth full of food.\par
+"Hmm, then there is much that could be said that should wait until later. Let me start by saying you are one of us. Injuries that would kill a normal human you shrug off, healing within minutes, as you demonstrated earlie
+r. Compared to others you are prodigiously strong, your reflexes are much faster, and you do not age the way normal humans do. Others have called us immortals, though that is incorrect, because we can die."\par
+"You have my interest sir." This time his mouth was empty, fork paused on its way up.\par
+The prince smiled. "Your father and grandfather back through eleven generations did not really die in service of king and country, they merely suffered injuries that would have killed a normal human, and then shaved off t
+heir beards to reappear as their only sons. Every one of them is you."\par
+"What makes you think you are correct?" the arrogance was showing.\par
+"When you know what to look for it becomes obvious. Every one of us has the same problem if we choose to live among humans - we don't age, they do. We either go somewhere else as someone different, or fake our deaths and 
+return as our sons. What do you remember of your parents?"\par
+"I don't." He chewed a mouthful of food, swallowed and washed it down with wine. It was obvious he was thinking how to answer. "I woke up on a battle field, surrounded by dead and dying. I had no idea of who I was, but I 
+surmised I had been stripped of my armor. I took a sword from the first soldier who tried to kill me. Then I spoke with some of the dying. One man said he recognized me from that morning as the earl of Wessex - he had bee
+n assigned as one of my bodyguards. I sat with him while he died, he talked of his family and England, and told me he had seen me felled by a monstrous Scots knight who bashed my head in with a morning star and then follo
+wed up with a battle axe. He was sure I'd died, but here I was talking with him so we agreed I'd been knocked unconscious. Since then I've regained snippets of memory from before that, but very little."\par
+"A severe head injury could remove your memories. I can see you are telling the truth."\par
+"Could he regain them if he visited..." Nemo began\par
+"Possibly. Loxton, there are many realms that are invisible from earth, and difficult to get to. One, the faery realm, you have no doubt heard of. Another is that of Order and Chaos. There is a vortex of power there that 
+might restore your memories. But you would need to journey there with Nemo and myself because the journey is arduous, you do not know the way, and you need us to open the way."\par
+"I might pass on that just now. Maybe later. What else am I capable of?"\par
+"Without training at the Courts of Order and Chaos, you are, I think, aware of all your abilities. I am happy to help you reach the Courts."\par
+"Why did you come here? Was it to find me?"\par
+Nemo laughed and shook his head. The prince replied more politely "No, we weren't aware of your existence until we met you earlier today. We are searching for a relic, a finger bone, which, if it fell into the wrong hands
+, could summon a monstrous demon from another realm. We know it is in London, and we mean to find it before someone else does."\par
+"How do I know you won't use it yourselves?"\par
+"How do you know you can trust anyone? You listen to what they say, you watch what they do. You will trust us because you decide we can be trusted. Until then, you may know someone who is interested in spirits or magic, o
+r old relics."\par
+Loxton shook his head. "Not that I can think of, but I will keep my eyes open. How do you know I will not tell tales about you to the authorities?"\par
+"I believe you are trust worthy. Besides, you do not want to draw the wrong sort of attention to yourself."\par
+There was a tapping at one of the windows of the stateroom. The prince opened it carefully and a raven hopped onto the sill.\par
+"What news have you?" the prince asked.\par
+The raven gave a "Wark!" and put its head on one side.\par
+"Show me." said the prince. They stood still for several minutes while Loxton watched the closely. He made to speak but Nemo motioned him to keep quiet.\par
+Finally the prince said "Thank you. Please keep watch and alert me to any further developments."\par
+The bird gave another "Wark!" and left through the open window.\par
+"You spoke with the raven?" Loxton's question was almost a statement.\par
+"Of course. There was a time when humans could speak with animals and spirits. It reported that they have spied a man taking a small box from a crypt and delivering it to a house. They believe it contains what we seek."\par
+
+"When are we going there?" Loxton asked.\par
+"We? Why would you wish to involve yourself in this?" the prince stayed by the window, studying Loxton.\par
+"Firstly, I can command they open their doors in the Queen's name. Secondly, much of what you told me I can confirm is true, I thought no one would know that about me. The rest I will take on trust for now. Will you have 
+my help?"\par
+"Yes, let us ready ourselves. Nemo, will you join us?"\par
+"I think I should."\par
+\par
+Edward Kelley nocked at the door of Dee's study. \rtlch\af29\afs20\alang1033\ltrch\dbch\af29\afs20\alang1033\hich\af29\afs20\alang1033\loch\lang1033 He was a man in his late twenties, with a fashionable Elizabethan beard,
+ dressed in dark scholar\rtlch\af29\afs20\alang1033\ltrch\dbch\af29\afs20\alang1033\hich\af29\afs20\alang3081\loch\lang3081 's robes and sporting a felt cap that covered his ears. There was a story going around that they 
+had been cropped in punishment for fraud, and he wore the cap to cover his disfigurement. However, Dee believed Kelley's tale that he had been disfigured in brawls while studying at Oxford. Some young men liked the idea o
+f physical scars to prove their manliness, something most regretted later.\rtlch\af29\afs20\alang1033\ltrch\dbch\af29\afs20\alang1033\hich\af29\afs20\alang1033\loch\lang1033\par
+\rtlch\af29\afs20\alang1033\ltrch\dbch\af29\afs20\alang1033\hich\af29\afs20\alang3081\loch\lang3081 "Professor, I have the box, just as the angel predicted." He waved the wooden box in Dee's face. Dee hastily cleared spac
+e for it on his writing table.\par
+"Well, let us see what is in it. Can you open it? Do you have the key?"\par
+"There's no key, but I can open it." Kelley placed a cloth roll on the desktop, unrolled it to reveal a number of small metal implements, and drew out a slim bladed knife. The rotten wood splintered easily, and soon Kelle
+y was able to draw out a smaller box made of some greenish semi precious stone.\par
+Kelly produced another tool shaped like a screwdriver, and used it to break the latch free from the lid. The stone box opened to reveal a small gold box with obscure writing on it.\par
+"Do you recognise that writing?" Dee asked.\par
+"No, but you should make a copy of it in your journal. I will ask the angels later if they can translate it for us."\par
+The box was locked, but this was a different type of lock, requiring a key with three long prongs to be inserted into a barrel. Kelley tried assorted lock picks to no avail. He was becoming frustrated, but Dee watched cal
+mly. "I am sure we will find a way to unlock it."\par
+"Don't need to unlock it. There's another way." Kelley drew out a slim needle and a small hammer. He placed the needle against the lynch pin of one of the hinges, and gently tapped with the hammer until it came free. He r
+epeated this with the other hinge, and the lid opened several inches. Inside was soft green cloth wrapped bundle, which Kelley removed. He unwrapped it to reveal a greenish bone similar in size and shape to a human finger
+ bone. The two men looked at it with excitement.\par
+"We can try the summoning!" Kelley exclaimed.\par
+"Now?" asked Dee.\par
+"Why not? We have everything we need. If we pull back the rugs we can draw our diagram on the floor. That small table will serve for our tools."\par
+"Let's do it." Dee himself was gleeful, and the two men set to moving furniture and preparing for the summoning.\par
+\par
+Captain Nemo wore his captain's uniform of white trousers tucked into black boots, a white shirt, blue waist coat, matching blue military style jacket with gold buttons and braid, and a peaked cap. The prince changed into
+ yellow riding breeches, brown cavalry boots, yellow shirt with high collar, brightly colored brocade waist coat, purple military style jacket with gold buttons and braid, and a black peaked cap similar to Nemo's. The ste
+ward procured clean Elizabethan style clothing for Loxton to replace his torn and stained clothes with a promise to deliver the old clothes to Loxton's lodgings.\par
+The three descended the gangway to the docks. Five scruffy individuals were lounging nearby. "What do thosse ruffians want with us?" Loxton asked.\par
+"I believe they have information for me." the prince replied. "Stay here, I will talk to them alone."\par
+"Isn't that dangerous?" Loxton cautioned.\par
+"Only for them." the prince laughed, walking over to the group. They spoke for a minute before the prince raised his hand like a priest bestowing a benediction. Then he withdrew a money pouch from a pocket and handed it t
+o the man he had spoken with. The men scarpered, the prince rejoined Nemo and Loxton.\par
+"Does the name Edward Kelley mean anything to you?" he asked Loxton.\par
+"He's Dr. Dee's assistant. Dr. Dee is royal astrologer, royal cartographer and mathematician. He's a very learned man."\par
+"Kelley is the man the ravens saw. So Dee is an astrologer? How very interesting. Things are beginning to fall into place. Allons-y."\par
+\par
+The two men chalked out diagrams on the floor. They lit candles at the four cardinal points and invoked the angels of the four watchtowers. They lit the censer, placed the bone in a specially marked circle, and then inton
+ed the enochian key of opening for the aethyr of LIN. After a few moments a breeze moved the candle flames and swirled the smoke from the censer, but nothing else seemed to happen.\par
+"We must have missed some step, or misunderstood an instruction." Dee told his assistant.\par
+"Perhaps I should consult the angels?" Kelley suggested.\par
+They closed the invokation to the aethyr, and Kelley fetched his shewstone. They were making preparations to consult it when their came a polite knock at the door.\par
+"Yes?" Dee asked sharply. "We are rather busy just now."\par
+"I am sorry to disturb you, Dr. Dee," came the butler's voice "but Her Majesty has sent a coach to convey you to the palace at your earliest convenience. She wishes to consult you."\par
+"Yes, yes. I shall be with you momentarily." He turned to Kelley. "Consult the angles but do nothing more until I return. Now, where are my astrological tables and the Queen's journal?" \par
+Kelley helped him pack equipment and books into a satchel, walked with him to the coach, and waited patently until it departed. Then he returned to Dee's workroom and tried the opening of the aethyr again. Nothing seemed 
+to happen so he consulted the shewstone. \par
+Usually when the angles spoke to them he heard their soft voices while a written version of their language appeared in the shewstone, usually in code that had to be transcribed and deciphered. Sometimes the angelic being 
+showed itself in the crystal. This time the angel spoke Latin, one of several languages Kelley was fluent in.\par
+"Place your left hand upon the crystal and your right upon the relic."\par
+Kelley did as he was bid. There was a feeling of tingling warmth that flowed from the shewstone, up his left arm, across his chest and down his right. After a minute or two the flow shut off.\par
+"Now move back."\par
+Kelley did as he was bid, looking around with trepidation. A hazy shadow appeared over the relic. It shimmered, flickered with rainbow colors, solidifying into what looked like a statue carved from red and green stone.\par
+
+The figure was a heavyset man carved from red jasper. He had a spade beard of red curls and matching hair. His eyes were glowing sapphires. He was dressed in sandals, leg greaves, kilt and vest all carved from green jade.
+ The figure swung its head to look at Kelley.\par
+"You are the opener. What is your wish?" The voice was deep enough for Kelley to feel it in his chest.\par
+What did he wish for? Thoughts of wealth, power and fame circled in his mind.\par
+"Wealth, fame and earthly power will come to you, but not today."\par
+The creature could read his mind! "What are you?"\par
+"You know me as Calzirg, jasper headed prince of wrath. You summoned me. Do you have any enemies?"\par
+Kelley had enemies aplenty, from those who had reported him for fraud to some of the nobles and even the queen, who had made it plain his presence was not welcome in the palace.\par
+"I can destroy your enemies. Command me. Quickly!"\par
+Kelley drew a breath. "Destroy my enemies." The creature shimmered and vanished.\par
+Kelley stood there in a daze, wondering what he had unleashed. Dee would be furious if he found out. He began considering what to do to conceal the event when he heard footsteps and voices outside and the door burst open.
+ A tall man with yellow eyes burst through the door followed by a bearded man he did not recognize, then Loxton, with the butler protesting at the rear.\par
+"What has happened here?" the man with the yellow eyes demanded. Kelley had barely begun to consider what to say when the yellow eyes swallowed him. The last ten minutes flashed before his eyes.\par
+"What was your command?" Kelley blurted out his words, compelled to obey like a dropped object obeys the law of gravity.\par
+"Ah." said the man with the yellow eyes. He turned and Kelley found himself thinking again. The man spoke into the air. "Find him swiftly. Alert me immediately you locate him." He looked around the room, taking in the cha
+lked circle, glyphs, candles and censer. "Spirits, depart. There is nothing more to see here." The candles went out, the censer stopped smoking.\par
+"Put the rug back." the man ordered. Kelley dragged the rug over the diagrams on the floor.\par
+"What happened?" Loxton asked. "Are we going to chase the creature?"\par
+"We will, when the .. er .. angels tell me where he is. Now, I am prince Lukeios, this is Captain Nemo. You are Edward Kelley, Dr. Dee's assistant. You have done something extremely foolish."\par
+"What was that creature?" Kelley managed to ask. His knees were trembling.\par
+"Firstly, you followed instructions of a spirit you saw in your crystal ball. You assumed it was an angel, but they have better things to do than chatter with humans. If an angel wants to talk with you, you won't need you
+r crystal. It will appear before you as real as I am.\par
+"Secondly, you found a relic according to the directions. That relic acted as a key, opening a passage for that being to travel from its own realm. When it arrived here that being required blood and souls to anchor it, an
+d you commanded it to destroy your enemies. It is out there now killing people for its own ends.\par
+"Thirdly, because you opened the way it is nominally under your command, which means it must obey any direct order you give it, and may not intentionally harm you. It will twist any order you give it to its advantage and 
+your hurt, and it will contrive for you to die. When you are dead it will be free of constraints and will lay waste to the earth.\par
+"Do I make myself clear? You have summoned the Prince of Rage, one of the Princes of Destruction. We must find him and banish him as soon as we can."\par
+Kelley blanched. "Can we kill him?"\par
+"No, he is immortal, truly immortal. The best we can hope for is to banish him, until another fool find one of his relics and summons him again."\par
+"Can we achieve that?" Loxton asked.\par
+"That is why I am here. We will banish him, but the cost may be great." He turned to Kelley. \u8220\'93Do you have any holy water?\u8221\'94 When Kelley nodded, the prince ordered \u8220\'93Fetch it now. We will need it.\u8221\'94
+\par
+\par
+The palace guards were unpleasantly surprised when the creature appeared in their midst, rending and tearing. Their weapons were completely ineffective, shattering against its hard hide. It killed them all, tearing them t
+o pieces and draining their blood. Then it continued its rampage through the palace. Stone walls crumbled and axe proof doors splintered before it.\par
+\par
+"The guides have located him. We must move swiftly. Take your wand, Kelley." the prince took hold of Kelley's hand and Loxton's. Nemo placed his hand on the prince's shoulder. The prince stepped forwards, pulling the othe
+rs with him. There was a rainbow scintillation, the scenery seemed to swirl, and they stepped into an ornate corridor that was splashed with blood and body parts. The walls looked as if someone had walked through swinging
+ a sledge hammer, smashing them randomly. From the doorway ahead came screams, bellows, floor-shaking crashes and the occasional crack of a musket.\par
+"How did we get here?" Kelley asked.\par
+"We ran through the streets, remember?" the prince replied. Loxton gave him a quizzical look.\par
+"Yes, I remember now. Everything seemed to swim before my eyes."\par
+"That's because you were out of breath. Now, we must act together. You opened the way, he must obey your orders, albeit for about five heartbeats. Then he will be free of your control for a short space of time. Order him 
+to stand still, in God\u8217\'92s name, and do that continually. You will give the rest of us a chance. Do not go near him, he will contrive your death. Can you do that?" He released Kelley's hand, and Kelley seemed to be
+ surrounded by a faint golden glow.\par
+"Yes, I can."\par
+The prince clapped a hand on the shoulders of Nemo and Loxton. "Gentlemen, you must distract him. Throw things at him, hurl epithets, but do not let him touch you. I have shielded you, but his touch will destroy your shie
+ld." Both of them were surrounded by faint golden glows.\par
+"We can manage that." said Nemo.\par
+"What will you be doing?" asked Loxton.\par
+"I have the hardest task. I must constrain him so he cannot flee, and then I must banish him. Let's go."\par
+Through the door was a similar scene of destruction and mayhem. The queen, along with several courtiers and guards, was backed into a corner on the far side of the room, the queen standing tall and looking defiant. The cr
+eature was tearing a guardsman apart, throwing bits behind him.\par
+\s5 "In the name of Almighty God, Yod, He, Vau, He, I order you to stand still!" Kelley shouted, pointing his wand at the creature.\par
+\s1 The creature froze briefly. "Yours will be the most prolonged and painful death I can contrive!" the creature yelled.\par
+"Stand still! Stand still!" Kelley was yelling the command continuously. Then he remembered himself, and repeated his first order again. "In the name of Almighty God... " He was swishing his wand of power at the creature,
+ which froze briefly again.\par
+Loxton picked up a huge chunk of stone from the floor and hurled it at the creature. "Your father was a dog and your mother a poxy whore!" The stone bounced off the creature's head with no apparent effect. The creature th
+rew the stone back so hard it swept Loxton off his feet, carried him across the room and smashed him into the wall.\par
+He picked himself up yelling "Lost your power! That didn't hurt a bit!" He dusted himself off, looking around for something else to throw.\par
+Captain Nemo was seen holding a club and whacking the creature with it, although that seemed to have little effect. He was careful to be out of reach before the creature could respond.\par
+The prince picked his way across the littered floor, carrying a flute of silver and ebony. He began to play, holding it vertically and blowing across the end, producing a haunting melody that sent shivers down the spines 
+of everyone present. The creature stopped its raging, and stood watching the prince approach.\par
+Loxton, Nemo and Kelly backed away, watching the prince and the creature. "Who are you? I will tear you apart!" It lunged for the prince, but its feet remained stuck to the floor. It bellowed in anger.\par
+"You will not succeed." The prince seemed to be able to talk and play the flute at the same time. "You are the Jasper Prince of Wrath. If you want a physical body, you should get one the usual way, by being born." The pri
+nce's tone was quiet, reasonable.\par
+"I am one of the non born! I cannot die! You can!" The creature swung a fist that should have sent the prince flying, except there was a flare of silver light and the creature howled in pain.\par
+\u8220\'93Kelly, the holy water, now.\u8221\'94 The prince ordered. Kelley cast a spray of water at the creature, which hissed. The prince's right hand darted forward, seeming to pass into the creature's body with a flare
+ of silver light. The hand came back with equal speed, green light spilling around his clenched fist.\par
+The creature grunted in pain. "Give that back! What are you?" it howled, shaking its head.\par
+The prince stood just out of reach, his face lit by the greenish glow, a smile playing around his lips. "You would lay waste to the earth. That we cannot permit. I am the Herald, the Harbinger of the Sun, the Hawk that ci
+rcles at dawn, banishing the darkness. You are of the darkness, and now I banish you." He spoke softly, almost tenderly.\par
+"How are you different from the rest of us?" the creature roared. It began clawing at the air around it, as if there were nets or cobwebs entangling it.\par
+"Take a look at what you've done since you arrived - the people killed or injured, the property destroyed or damaged. When you understand that you will know something of how we differ." the prince replied as if talking to
+ a child.\par
+"Insects and sand castles! Humans are vermin infesting this place."\par
+"You are bound by the song lines. You should not be here, and now I send you home." The prince held out his hand and opened it. Green light spilled everywhere, pulsating like a heartbeat. In the center of his palm sat a s
+mall greenish bone \u8211\'96 the finger-bone relic. He played one pure note on the flute, a note that seemed to make the walls of the palace tremble, and the very air shiver. It was like fingernails scraped on a blackboa
+rd of the soul. A silver flame shot up around the relic, consuming the green light, and then consuming the bone itself. Nothing remained, not even ash.\par
+"There was so much I planned to do. I was just getting started." The creature complained sadly. Then the entire body melted into dust, which shimmered and vanished.\par
+The prince turned to the group of people. "Your Majesty, you are safe now, the creature is gone for good. I am Prince Lukeios of Stygia, I was to present my credentials to you tonight."\par
+"We thank you, England thanks you." The queen drew herself up. She was about fifty years old, her face long and thin, her hair covered by a reddish wig with a great number of spangles of gold and silver, and hanging down 
+over her forehead some pearls. She wore a dress of green cloth, slashed and lined with scarlet and gold, low at the front revealing her cleavage, and with a necklace of rubies. She managed to look as if she had spent time
+ reviewing something boring, and not been in fear of her life. "I apologize for the state of my chamber. Perhaps you will dine with me tonight, along with your companions? We will discuss things in a more convivial enviro
+nment. Now if you will excuse me, I must see the extend of the damage, and deal with the injured and dead."\par
+"With your leave, we shall accompany you. We may be able to render some small service." The queen acquiesced, and the prince and his party fell in with the queen's entourage.\par
+\par
+There were many dead, and more injured or dying. The prince said words of comfort to the dying, closing their eyes when they died. The queen observed him the first time, then copied him, saying "They gave their lives for 
+England, they should see their queen thank them for that."\par
+"Death stalks us all." The prince responded. "It is important to be prepared for death before it taps you on the shoulder and tells you your time is up. Too many have died, and many injured will die soon."\par
+The queen agreed. Then she asked "What was that creature?"\par
+Dr Dee was of the opinion the creature was some kind of demon. "It was completely unnatural. It appeared to have a body of jasper. I would like to know how you destroyed it."\par
+"Yes, but how did it arrive here? Where did it come from?" the queen wanted to know. "Are there any more like that?"\par
+"It was most certainly a demon." The prince stated. "Normally demons are incorporeal, and are relegated to whispering temptations into one's ears. However, there are certain items, buried since the time of Enoch, that can
+ permit such a creature to manifest in a physical body." The prince was choosing his words carefully. "Most have been destroyed now, but from time to time one surfaces. This one was a piece of green jasper in the form of 
+a finger bone, and stored in an ossuary. If such an item falls into the wrong hands, then those hands can summon the demon, and it will manifest physically."\par
+"Really? Then we must catch this wretch!" the queen was vehement, her eyes flashing. Kelley blanched, Dee looked worried.\par
+"The wretch has already paid for his crimes." the prince stated. "There is usually a myth that the item will grant you eternal life, or world domination, or the riches of Croesus, if you but summon the demon. The demon re
+quires a physical body, except the myth conveniently omits this. The demon takes the physical body of the summoner, sends the soul to hell to take the demon's place, and then refashions the body to its liking. It is pract
+ically immortal, but it has two weaknesses. The first is that it can only survive here as long as it keeps the item that summoned it safe about its person. Destroy the item and you destroy the creature. The second is that
+ whoever possesses the container of the item may command the demon for all of five heartbeats."\par
+"Ah!" said Dr. Dee. "You destroyed the item. But how did you manage that?"\par
+"But Kelley was commanding the demon to stand still." The queen commented. "Did he have possession of the box the item came in? How did he come by it?"\par
+The prince answered for them. "The angels warned Kelley and Dee of the item, and told Kelley where to find it. They also warned me, which is why I arrived here today. Kelley found the empty box, he was too late to obtain 
+the item. I found Kelley, and then the angels told me to come here with all speed. You were witness to what happened after that."\par
+"That was most fortunate." The queen said. "How did you destroy the item?"\par
+"Well your Majesty, with Kelley ordering it to stand still, and Nemo and Loxton distracting it, I managed to grasp the item at its belt." At this point he withdrew a fine glove made of cloth of silver from his pocket. "I 
+was wearing this. It was one of a pair given to our Lord by the three wise men. This has been in our family for generations, given in sacred trust to hunt down these items and destroy them. When I am old I will hand this 
+on." He smiled winsomely. "And I would appreciate if no one outside of this small group knows this. There are still items buried somewhere. When they surface, the bearer of this will be notified."\par
+\par
+Later that evening, the prince presented his credentials to the queen. Many of the usual attendees had been told not to appear for dinner, and instead only a few powerful nobles were there, along with the prince, captain 
+Nemo, Sir Matthias Loxton, Sir Francis Drake and Dr. Dee. The queen pressed prince Lukeios on what he knew about the supernatural.\par
+The prince spoke at some length, discoursing on dragons and other creatures, trolls, svart alfar or dark elves, goblins, and a host of others that could cause mischief. He seemed to know his subject, and expressed things 
+in Christian terms, which pleased his audience. He stressed the need for a select group of people trained in how to deal with such creatures in order to protect the kingdom from them.\par
+After a time, the queen announced to her advisors "I believe we should set up an order that will be knowledgeable in this, and will be able to deal with such matters if they arise again. It should be a secret order, known
+ only to myself, you gentlemen here, and the members themselves."\par
+The gentlemen agreed. "What should we call such an organisation?"\par
+The queen shook her head. "I will take your advice on this."\par
+"Beowulf." The prince suggested. "He hunted and killed the monster Grendl. This organisation will be doing something similar."\par
+"Let it be so." Announced the queen. "The Secret Order of Beowulf. I of course shall be the head, and you gentlemen shall be the members. One among you shall be the second in charge."\par
+\par
+Back on the ship later the same night, Captain Nemo asked Prince Lukeios "What was that story about your glove for?"\par
+"Ah, Nemo, simply a story acceptable to their Christian world view. I had to explain things in terms they could accept. But it will all work out for the best. Dee and Kelley will burn their notes about the relic, lest som
+eone discover they were responsible for summoning it. We have an order for dealing with unexplained phenomena, especially supernatural, with Loxton a founding member. Loxton is aware of his heritage, and aware that there 
+are others like him. We will return from time to time to mentor him."\par
+\par
+The Secret Order of Beowulf came into being and is still a secret order to this day. After some years Loxton became the head of the organisation, and this passed down through his family, father to son, over the centuries.
+ Dr Dee and Kelley decided that they should retire from magical life in England, accepting an invitation from prince Laski of Siradia in Poland, and went to stay in Krakow for several years. Dee later returned to England 
+where he continued his experiments. When queen Elizabeth died, her successor King James refused to permit Dr Dee to continue anything to do with magic. Dee retired and eventually died of old age. Kelley went to Germany wh
+ere he was knighted, and then to Bohemia, where he was imprisoned for fraud. He either died in prison, or died trying to escape. The so-called enochian language is still used by some magicians today in an effort to invoke
+ the "angelic" beings that spoke to Dee and Kelley. The secret order of Beowulf became secret even from the king.\par
+\par
+}

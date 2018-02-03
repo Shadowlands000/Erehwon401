@@ -1,0 +1,14 @@
+1. Crane 3 - pans across bar - 4.0s
+2. Place Order - elanor orders from waitress - 18.6s
+3. Order Drink - Lucifer orders at bar - 9.7s
+4. barstool seated - Lucifer on barstool - 4.0s
+5. climb off barstool - L - 1.4s
+6. join table - lucifer joins elanor - 13.4s
+7. Romantic meal - L + E - 17.9s
+{8. burger talk} - L + E - 12.9s
+9. talk intense - L + E - 26.6s
+a. walk talk listen - walking to bar - L + E - 7.7s
+b. critical talk - at bar - about 30s - 
+c. couple kiss - 3.9s
+d. arm in arm - the pair leave - L + E + bartender - 36.4s
+total = 186.5 = 3m6.5s
